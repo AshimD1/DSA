@@ -1,0 +1,11 @@
+Input : 
+n = 4
+
+Output : 
+
+Solid Rhombus:
+
+   ****
+  ****
+ ****
+****
